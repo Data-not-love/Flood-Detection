@@ -12,4 +12,4 @@ logging.error("This is an ERROR log")
 logging.critical("This is a CRITICAL log")
 logging.debug("This is a DEBUG log")
 logging.fatal("This is a FATAL log")
-print("Log file path:", logger_gen.get_log_file_path())
+
